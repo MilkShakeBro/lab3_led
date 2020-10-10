@@ -64,3 +64,4 @@ module lab3_1(clk, rst, en, dir, led);
   end
   assign led = out;
 endmodule
+// hi
